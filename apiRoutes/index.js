@@ -55,8 +55,8 @@ router.get('/employees', (req, res) => {
     });
 })
 
-module.exports = router; 
-© 2022 GitHub, Inc.
-    Terms
-Privacy
-Se
+// module.exports = router;
+// © 2022 GitHub, Inc.
+//     Terms
+// Privacy
+// Se
