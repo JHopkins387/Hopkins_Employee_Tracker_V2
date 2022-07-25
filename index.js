@@ -1,5 +1,7 @@
-
+const inquirer = require('inquirer');
 const express = require('express');
+const cTable = require('console.table');
+//require connection.js page for mysql2 setup
 const router = express.Router();
 const db = require('../db/connection')
 //    Department
